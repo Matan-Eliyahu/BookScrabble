@@ -74,7 +74,7 @@ public class Dictionary {
         return false;
     }
 
-    public boolean challenge (String word)
+    public boolean challenge(String word)
     {//Checking if the word exists in one of the files
         try 
         {

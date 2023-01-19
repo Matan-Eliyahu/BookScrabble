@@ -2,7 +2,7 @@ package test;
 import java.util.ArrayList;
 
 public class Board {
-    public static Board board_instance;
+    private static Board board_instance = null;
     Tile[][] board;
     String[][] bonusSquares;
     boolean firstWordPlacedOnBoard;
