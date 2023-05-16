@@ -20,7 +20,7 @@ However, the valid words in the game are not all the words in the English dictio
 - A small board containing a letter and its value in the game - the number of points the letter is worth.
 - In the following diagram, you can see how much each letter is worth in the game:
  
-<img src="https://github.com/Matan-Eliyahu/BookScrabble/blob/master/Readme%20images/Tiles.png" alt="Tiles" width="400px" height="300px">
+<img src="https://github.com/Matan-Eliyahu/BookScrabble/blob/master/Readme%20images/Tiles.png" alt="Tiles" width="500px" height="300px">
 - However, unlike the original game, there are no two blank tiles available in this version.
 
 ### Bag
